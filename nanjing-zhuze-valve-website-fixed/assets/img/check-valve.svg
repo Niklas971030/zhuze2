@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="止回阀 Check Valve">
+  <defs>
+    <linearGradient id="gg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e8f1ff"/>
+      <stop offset="1" stop-color="#c8ddff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#gg)"/>
+  <g stroke="#295ea8" stroke-width="8" fill="none">
+    <rect x="60" y="180" width="480" height="60" rx="8"/>
+    <circle cx="120" cy="210" r="42" fill="none"/>
+    <circle cx="480" cy="210" r="42" fill="none"/>
+    <path d="M300 180 v-40 h-60 v-20 h120 v20 h-60 v40" stroke-linecap="round"/>
+  </g>
+  <text x="20" y="360" font-size="28" fill="#0a2342" font-family="Arial, Helvetica, sans-serif">止回阀 Check Valve</text>
+</svg>

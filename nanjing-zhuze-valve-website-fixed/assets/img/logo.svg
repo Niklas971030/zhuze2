@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" role="img" aria-label="南京竹箦阀业有限公司 Logo">
+  <rect width="240" height="80" rx="12" fill="#0a2342"/>
+  <g transform="translate(16,18)">
+    <circle cx="22" cy="22" r="20" fill="#64a8ff"/>
+    <path d="M22 8 v28 M10 22 h24" stroke="#0a2342" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="70" y="52" font-size="22" fill="#ffffff" font-family="Arial, Helvetica, sans-serif">ZHUZE VALVE</text>
+</svg>
